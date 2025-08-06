@@ -1,28 +1,42 @@
-<<<<<<< HEAD
-# tracker
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
 # Tracker
->>>>>>> 450373f474535ac5aef08ce9f759c98ef79e527b
+
+>Sistema de controle de tarefas com cronômetro, desenvolvido em Vue 3 + TypeScript.
+
+## Instalação
+
+```sh
+pnpm install
+```
+
+## Desenvolvimento
+
+```sh
+pnpm run serve
+```
+
+## Build para produção
+
+```sh
+pnpm run build
+```
+
+## Lint
+
+```sh
+pnpm run lint
+```
+
+## Funcionalidades
+- Cadastro e listagem de tarefas
+- Cronômetro para cada tarefa
+- Barra lateral de navegação
+- Componentes reutilizáveis em Vue 3
+
+## Tecnologias
+- Vue 3
+- TypeScript
+- FontAwesome
+- PNPM
+
+---
+Desenvolvido por mathalber
